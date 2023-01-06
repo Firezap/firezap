@@ -3,7 +3,7 @@
 Aplicação FireZAP 
 Firecloud Solutions
 
-Atendimento Multi Atendente WhatsApp
+Multi Atendente WhatsApp
 Baseado em Chatbot e Tickets
 
-Firecloud.Solutions
+https://firezap.pro
